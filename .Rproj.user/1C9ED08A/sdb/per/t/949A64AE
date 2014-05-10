@@ -1,12 +1,12 @@
 {
-    "contents" : "getwd()\n",
+    "contents" : "getwd()\nq()\n",
     "created" : 1399754914540.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2605344632",
+    "hash" : "3998400989",
     "id" : "949A64AE",
-    "lastKnownWriteTime" : 1399754947,
+    "lastKnownWriteTime" : 1399757021,
     "path" : "~/test-repo/Test2.R",
     "project_path" : "Test2.R",
     "properties" : {
