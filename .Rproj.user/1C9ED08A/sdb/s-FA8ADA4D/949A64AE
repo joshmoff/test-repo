@@ -1,0 +1,17 @@
+{
+    "contents" : "getwd()\n",
+    "created" : 1399754914540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2605344632",
+    "id" : "949A64AE",
+    "lastKnownWriteTime" : 1399754947,
+    "path" : "~/test-repo/Test2.R",
+    "project_path" : "Test2.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
